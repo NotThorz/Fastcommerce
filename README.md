@@ -14,7 +14,7 @@ Welcome to the Fastcommerce Template! 🚀 This template provides a robust found
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/NotThorz/FastEcommerce.git
+    git clone https://github.com/NotThorz/Fastcommerce.git
     cd FastEcommerce
     ```
 
