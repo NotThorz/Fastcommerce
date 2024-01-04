@@ -15,7 +15,7 @@ Welcome to the Fastcommerce Template! 🚀 This template provides a robust found
 
     ```bash
     git clone https://github.com/NotThorz/Fastcommerce.git
-    cd FastEcommerce
+    cd Fastcommerce
     ```
 
 2. Create a virtual environment and install dependencies:
